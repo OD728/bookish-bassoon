@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         YouTube Auto Playback Speed (1.25x)
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Automatically sets YouTube video playback to 1.25x speed.
 // @author       Dean
 // @match        *://*.youtube.com/*
 // @exclude      *://*.youtube.com/tv*
 // @exclude      *://*.youtube.com/embed/*
+// @exclude      *://music.youtube.com/*
 // @grant        none
 // ==/UserScript==
 
